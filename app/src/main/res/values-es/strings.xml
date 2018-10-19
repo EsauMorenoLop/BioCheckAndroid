@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">biocheckmovil</string>
+    <string name="lbl_company">Subdominio</string>
+    <string name="lbl_employee_id">Id Empleado</string>
+    <string name="lbl_nip">Nip</string>
+    <string name="lbl_login">Entrar</string>
+    <string name="lbl_error_employe_id_not_found">Id de Empleado no encontrado o no está habilitado</string>
+    <string name="lbl_error_nip_incorrect">Nip Incorrecto</string>
+    <string name="lbl_error_company_not_found">No existe la compañia</string>
+    <string name="lbl_error_unknown">Error no especificado</string>
+    <string name="lbl_error_network">Error de red, revisa tu coneccion a internet</string>
+    <string name="lbl_enroll_stage">Fase de registro</string>
+    <string name="lbl_now_we_take">Ahora tomaremos unas fotografías de su rostro para registrarle. Favor de tomarlas con suficiente luz.</string>
+    <string name="lbl_photo">Foto</string>
+    <string name="lbl_take">Tomar</string>
+    <string name="lbl_finish">Finalizar</string>
+    <string name="lbl_error_invalid_picture">El usuario no coincide, porfavor intente de nuevo.</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="lbl_check_in">Registrar Entrada</string>
+    <string name="lbl_check_out">Registrar Salida</string>
+    <string name="lbl_view_route">Ver la Ruta</string>
+    <string name="lbl_logout">Salir</string>
+    <string name="lbl_error_cant_be_empty">No puede estar vacio</string>
+    <string name="lbl_error_cant_check">No se pudo registrar, intente de nuevo.</string>
+    <string name="lbl_check_successful">El registro ha sido exitoso.</string>
+    <string name="lbl_doing_check">Realizando el Registro</string>
+    <string name="lbl_no_have_routes">No tienes ninguna ruta asignada</string>
+    <string name="lbl_today">Hoy</string>
+    <string name="snack_no_conection_retry">Problemas de conexión, ¿Intentar de nuevo?</string>
+    <string name="lbl_retry">Reintentar</string>
+    <string name="lbl_error_wrong_picture">La fotografía es de baja calidad, intente de nuevo</string>
+    <string name="lbl_error_invalid_user">El empleado no esta habilitado</string>
+    <string name="snack_invalid_gps_position">Posición de GPS Inválida</string>
+    <string name="lbl_check">REGISTRO</string>
+    <string name="lbl_routes">RUTAS</string>
+    <string name="lbl_checks">REGISTROS</string>
+</resources>
